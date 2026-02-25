@@ -1,0 +1,34 @@
+┌─────────────────┬───────────────────┬──────────────┬─────────────────┐
+│ job_title_short │   job_location    │   job_via    │ salary_year_avg │
+├─────────────────┼───────────────────┼──────────────┼─────────────────┤
+│ Data Analyst    │ Anywhere          │ via LinkedIn │ 336500.0        │
+│ Data Analyst    │ New York, NY      │ via LinkedIn │ 240000.0        │
+│ Data Analyst    │ New York, NY      │ via LinkedIn │ 239777.5        │
+│ Data Analyst    │ New York, NY      │ via LinkedIn │ 239777.5        │
+│ Data Analyst    │ New York, NY      │ via LinkedIn │ 225000.0        │
+│ Data Analyst    │ San Jose, CA      │ via LinkedIn │ 224500.0        │
+│ Data Analyst    │ Los Angeles, CA   │ via LinkedIn │ 222500.0        │
+│ Data Analyst    │ San Jose, CA      │ via LinkedIn │ 222093.5        │
+│ Data Analyst    │ Los Angeles, CA   │ via LinkedIn │ 217550.0        │
+│ Data Analyst    │ Mountain View, CA │ via LinkedIn │ 215500.0        │
+│ Data Analyst    │ San Jose, CA      │ via LinkedIn │ 208500.0        │
+│ Data Analyst    │ Los Angeles, CA   │ via LinkedIn │ 204584.5        │
+│ Data Analyst    │ Bethesda, MD      │ via LinkedIn │ 204000.0        │
+│ Data Analyst    │ San Francisco, CA │ via LinkedIn │ 200000.0        │
+│ Data Analyst    │ Anywhere          │ via LinkedIn │ 189000.0        │
+│ Data Analyst    │ Mountain View, CA │ via LinkedIn │ 186500.0        │
+│ Data Analyst    │ Dallas, TX        │ via LinkedIn │ 185000.0        │
+│ Data Analyst    │ New York, NY      │ via LinkedIn │ 185000.0        │
+│ Data Analyst    │ Dallas, TX        │ via LinkedIn │ 185000.0        │
+│ Data Analyst    │ New York, NY      │ via LinkedIn │ 181177.5        │
+│ Data Analyst    │ Mountain View, CA │ via LinkedIn │ 181177.5        │
+│ Data Analyst    │ San Jose, CA      │ via LinkedIn │ 181000.0        │
+│ Data Analyst    │ New York, NY      │ via LinkedIn │ 180000.0        │
+│ Data Analyst    │ Sunnyvale, CA     │ via LinkedIn │ 175500.0        │
+│ Data Analyst    │ Stamford, CT      │ via LinkedIn │ 175000.0        │
+│ Data Analyst    │ New York, NY      │ via LinkedIn │ 175000.0        │
+│ Data Analyst    │ Pasadena, CA      │ via LinkedIn │ 175000.0        │
+│ Data Analyst    │ Los Angeles, CA   │ via LinkedIn │ 172118.5        │
+│ Data Analyst    │ Mountain View, CA │ via LinkedIn │ 170000.0        │
+│ Data Analyst    │ Mountain View, CA │ via LinkedIn │ 170000.0        │
+└─────────────────┴───────────────────┴──────────────┴─────────────────┘
