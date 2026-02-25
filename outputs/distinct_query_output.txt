@@ -1,0 +1,38 @@
+┌───────────────────────────┐
+│      job_title_short      │
+├───────────────────────────┤
+│ Machine Learning Engineer │
+│ Data Engineer             │
+│ Data Analyst              │
+│ Data Scientist            │
+│ Senior Data Engineer      │
+│ Business Analyst          │
+│ Cloud Engineer            │
+│ Senior Data Analyst       │
+│ Senior Data Scientist     │
+│ Software Engineer         │
+└───────────────────────────┘
+┌─────────────────┐
+│ salary_year_avg │
+├─────────────────┤
+│ 101029.0        │
+│ 82500.0         │
+│ 54988.0         │
+│ 157500.0        │
+│                 │
+│ 139216.0        │
+│ 155500.0        │
+│ 78390.0         │
+│ 55000.0         │
+│ 135000.0        │
+│ 72250.0         │
+│ 146500.0        │
+│ 120000.0        │
+│ 140000.0        │
+│ 105000.0        │
+│ 70000.0         │
+│ 124538.171875   │
+│ 125000.0        │
+│ 110000.0        │
+│ 115000.0        │
+└─────────────────┘
