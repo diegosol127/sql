@@ -41,3 +41,9 @@ Get column information for a desired table
 ```sqlite
 PRAGMA table_info(<tablename>);
 ```
+
+Run a `sql` script from the CLI
+
+```sqlite
+.read <path/to/sql/script>
+```
