@@ -1,0 +1,54 @@
+┌───────────────────────────────────────────────────────────────────────┬─────────────────────────┬──────────┐
+│                                 title                                 │        location         │  salary  │
+├───────────────────────────────────────────────────────────────────────┼─────────────────────────┼──────────┤
+│ Data Analyst                                                          │ Anywhere                │ 650000.0 │
+│ Data Analyst                                                          │ San Francisco, CA       │ 350000.0 │
+│ Data Sector Analyst - Hedge Fund in Midtown                           │ New York, NY            │ 240000.0 │
+│ Data Analyst                                                          │ San Francisco, CA       │ 240000.0 │
+│ Investigations and Insights Lead Data Analyst - USDS                  │ New York, NY            │ 239777.5 │
+│ Investigations and Insights Lead Data Analyst - USDS                  │ New York, NY            │ 239777.5 │
+│ Principal, Data Analyst                                               │ Sunnyvale, CA           │ 234000.0 │
+│ Data Analyst, Marketing                                               │ Anywhere                │ 232423.0 │
+│ Data Analyst                                                          │ Sunnyvale, CA           │ 225000.0 │
+│ Data Analyst                                                          │ Fairfax, VA             │ 225000.0 │
+│ Data Analyst Director                                                 │ Boston, MA              │ 225000.0 │
+│ Reference Data Analyst                                                │ New York, NY            │ 225000.0 │
+│ Artemis Analyst & Data Science Engineer                               │ Orlando, FL             │ 225000.0 │
+│ E-commerce Data Analyst                                               │ San Jose, CA            │ 224500.0 │
+│ Data Analyst Manager, TikTok-US-Data Security                         │ Los Angeles, CA         │ 222500.0 │
+│ TikTok Shop - Data Analyst                                            │ San Jose, CA            │ 222093.5 │
+│ Staff Consultant - Data Analyst - Springfield, VA location            │ Chantilly, VA           │ 218500.0 │
+│ Staff Consultant - Data Analyst --- Springfield, VA location          │ Chantilly, VA           │ 218500.0 │
+│ Lead Data Analyst LIVE - USDS                                         │ Los Angeles, CA         │ 217550.0 │
+│ Data Analyst (Hybrid/Remote)                                          │ Anywhere                │ 217000.0 │
+│ Data Analyst-SME                                                      │ Bethesda, MD            │ 210267.0 │
+│ Business Intelligence Data Analyst - Global Monetization Product ...  │ San Jose, CA            │ 208500.0 │
+│ Staff Credit Strategy Analyst, Data Scientist                         │ Jacksonville, FL        │ 205000.0 │
+│ Principal Data Analyst (Remote)                                       │ Anywhere                │ 205000.0 │
+│ Data Analyst - Health, Principal                                      │ Oakland, CA             │ 205000.0 │
+│ Data Analyst-SME                                                      │ Bethesda, MD            │ 204000.0 │
+│ Staff Business Data Analyst                                           │ Mountain View, CA       │ 200000.0 │
+│ Staff Business Data Analyst                                           │ Mountain View, CA       │ 200000.0 │
+│ Principal Business Data Analyst                                       │ Mountain View, CA       │ 200000.0 │
+│ Principal Business Data Analyst                                       │ Mountain View, CA       │ 200000.0 │
+│ Data Analyst（SF）                                                    │ San Francisco, CA       │ 200000.0 │
+│ Staff Data Analyst, Credit Analytics                                  │ Austin, TX              │ 200000.0 │
+│ Staff Business Data Analyst                                           │ Mountain View, CA       │ 200000.0 │
+│ Reference Data Business Analyst/Product Manager                       │                         │ 200000.0 │
+│ Marketing Data Analyst                                                │                         │ 190000.0 │
+│ Director, Data Analyst - HYBRID                                       │ Anywhere                │ 189309.0 │
+│ Principal Data Analyst, AV Performance Analysis                       │ Anywhere                │ 189000.0 │
+│ Business Group Manager - Remediation & Data Analyst Manager - SVP...  │ Illinois City, IL       │ 188675.0 │
+│ Data Analyst - Tiktok Ads                                             │ Mountain View, CA       │ 186500.0 │
+│ Data Analyst III                                                      │ Sunnyvale, CA           │ 186093.0 │
+│ Principal Data Analyst                                                │ Anywhere                │ 186000.0 │
+│ Lead-Data Analyst                                                     │ San Francisco, CA       │ 186000.0 │
+│ ERM Data Analyst                                                      │ South San Francisco, CA │ 184878.0 │
+│ ERM Data Analyst                                                      │ Anywhere                │ 184000.0 │
+│ Science & Technology Data Analyst Team Lead (Bio Tech) Top-Secret     │ College Park, MD        │ 182500.0 │
+│ Business Group Manager - Remediation & Data Analyst Manager - SVP...  │ St. Charles, IL         │ 181425.0 │
+│ Investigations and Insights Lead Data Analyst - USDS                  │ New York, NY            │ 181177.5 │
+│ Lead Data Analyst, Influence Operations - USDS                        │ Mountain View, CA       │ 181177.5 │
+│ Business Data Analyst - TikTok Monetization Product                   │ San Jose, CA            │ 181000.0 │
+│ Data Analyst - Tech Consulting - Data and Ana - Advanced Analytics... │ Austin, TX              │ 180190.0 │
+└───────────────────────────────────────────────────────────────────────┴─────────────────────────┴──────────┘
