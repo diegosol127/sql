@@ -1,3 +1,6 @@
+-- Run from CLI in parent directory
+-- sqlite3 -header -box jobs_2023.sqlite < Scripts/practice/prac1.sql > Outputs/practice/prac1.txt
+
 /*
 - Get the job details for BOTH 'Data Analyst' or 'Business Analyst' positions
   - For 'Data Analyst', only find jobs > $100k
