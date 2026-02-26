@@ -1,0 +1,54 @@
+┌──────────────────┬──────────────┬────────────────────────────┬─────────────────┐
+│ job_title_short  │ job_location │          job_via           │ salary_year_avg │
+├──────────────────┼──────────────┼────────────────────────────┼─────────────────┤
+│ Data Analyst     │ Anywhere     │ via Y Combinator           │ 650000.0        │
+│ Data Analyst     │ Anywhere     │ via LinkedIn               │ 336500.0        │
+│ Data Analyst     │ Anywhere     │ via ZipRecruiter           │ 255829.5        │
+│ Data Analyst     │ Anywhere     │ via Indeed                 │ 232423.0        │
+│ Data Analyst     │ Boston, MA   │ via Ladders                │ 225000.0        │
+│ Business Analyst │ Anywhere     │ via LinkedIn               │ 220000.0        │
+│ Data Analyst     │ Anywhere     │ via Recruit.net            │ 217000.0        │
+│ Business Analyst │ Anywhere     │ via ZipRecruiter           │ 214500.0        │
+│ Data Analyst     │ Anywhere     │ via Built In NYC           │ 205000.0        │
+│ Business Analyst │ Anywhere     │ via Wellfound              │ 200000.0        │
+│ Business Analyst │ Anywhere     │ via Wellfound              │ 200000.0        │
+│ Business Analyst │ Anywhere     │ via LinkedIn               │ 190000.0        │
+│ Data Analyst     │ Anywhere     │ via Indeed                 │ 189309.0        │
+│ Data Analyst     │ Anywhere     │ via LinkedIn               │ 189000.0        │
+│ Data Analyst     │ Anywhere     │ via Indeed                 │ 186000.0        │
+│ Data Analyst     │ Anywhere     │ via Get.It                 │ 184000.0        │
+│ Data Analyst     │ Boston, MA   │ via Dice                   │ 179000.0        │
+│ Data Analyst     │ Boston, MA   │ via Ladders                │ 175000.0        │
+│ Data Analyst     │ Boston, MA   │ via Wellfound              │ 175000.0        │
+│ Business Analyst │ Anywhere     │ via Wellfound              │ 170500.0        │
+│ Data Analyst     │ Anywhere     │ via LinkedIn               │ 170000.0        │
+│ Data Analyst     │ Anywhere     │ via Dice                   │ 170000.0        │
+│ Data Analyst     │ Anywhere     │ via ZipRecruiter           │ 170000.0        │
+│ Data Analyst     │ Anywhere     │ via ZipRecruiter           │ 167000.0        │
+│ Data Analyst     │ Anywhere     │ via LinkedIn               │ 165000.0        │
+│ Data Analyst     │ Anywhere     │ via Get.It                 │ 165000.0        │
+│ Data Analyst     │ Anywhere     │ via Indeed                 │ 164746.0        │
+│ Data Analyst     │ Anywhere     │ via Indeed                 │ 164746.0        │
+│ Data Analyst     │ Anywhere     │ via Indeed                 │ 163500.0        │
+│ Business Analyst │ Anywhere     │ via LinkedIn               │ 162500.0        │
+│ Data Analyst     │ Anywhere     │ via Indeed                 │ 160515.0        │
+│ Data Analyst     │ Anywhere     │ via LinkedIn               │ 160000.0        │
+│ Data Analyst     │ Anywhere     │ via Get.It                 │ 160000.0        │
+│ Data Analyst     │ Anywhere     │ via LinkedIn               │ 160000.0        │
+│ Data Analyst     │ Anywhere     │ via ZipRecruiter           │ 157500.0        │
+│ Data Analyst     │ Anywhere     │ via ZipRecruiter           │ 157500.0        │
+│ Data Analyst     │ Anywhere     │ via Jobgether              │ 155485.5        │
+│ Data Analyst     │ Anywhere     │ via Motion Recruitment     │ 155000.0        │
+│ Data Analyst     │ Anywhere     │ via Built In San Francisco │ 152625.0        │
+│ Data Analyst     │ Anywhere     │ via Built In San Francisco │ 152625.0        │
+│ Data Analyst     │ Anywhere     │ via Built In               │ 152500.0        │
+│ Data Analyst     │ Anywhere     │ via Indeed                 │ 152221.5        │
+│ Data Analyst     │ Boston, MA   │ via LinkedIn               │ 151500.0        │
+│ Data Analyst     │ Anywhere     │ via Get.It                 │ 151500.0        │
+│ Data Analyst     │ Anywhere     │ via ZipRecruiter           │ 150000.0        │
+│ Data Analyst     │ Anywhere     │ via ZipRecruiter           │ 150000.0        │
+│ Data Analyst     │ Anywhere     │ via LinkedIn               │ 148238.5        │
+│ Data Analyst     │ Boston, MA   │ via Indeed                 │ 147500.0        │
+│ Data Analyst     │ Boston, MA   │ via Indeed                 │ 147500.0        │
+│ Data Analyst     │ Anywhere     │ via ZipRecruiter           │ 147285.0        │
+└──────────────────┴──────────────┴────────────────────────────┴─────────────────┘
