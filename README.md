@@ -19,7 +19,7 @@ sqlite3 <path/to/db>
 Additional options provide a more clear CLI ouput
 
 ```bash
-sqlite -header -box -nullvalue NULL -version <path/to/db>
+sqlite3 -header -box -nullvalue NULL <path/to/db>
 ```
 
 Once inside the SQLite shell, you can use the following commands to preview important aspects of the data.
